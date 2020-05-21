@@ -10,6 +10,8 @@ They are presented in the form of Jupyter Notebooks using Python
 
 - ### Natural Language Processing (NLP)
 
-Contact Info: ignaciodottore@gmail.com
+
+
+-Contact Info: ignaciodottore@gmail.com
 
 
