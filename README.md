@@ -4,11 +4,11 @@ They are presented in the form of Jupyter Notebooks using Python
 
 ## Contents
 
-### Data Analysis and Visualization 
+- ### Data Analysis and Visualization 
 
-### Machine Learning 
+- ### Machine Learning 
 
-### Natural Language Processing (NLP)
+- ### Natural Language Processing (NLP)
 
 Contact Info: ignaciodottore@gmail.com
 
